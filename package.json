@@ -1,0 +1,23 @@
+{
+  "name": "cryptographix-canvas",
+  "version": "0.0.1",
+  "description": "Canvas for CryptoGraphix simulation diagrams",
+  "main": "dist/cjs/cryptographix-canvas.js",
+  "scripts": {
+    "test": "gulp test",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/cryptographix/cryptographix-canvas/"
+  },
+  "author": "",
+  "license": "ISC",
+  "jspm": {
+    "devDependencies": {}
+  },
+  "devDependencies": {
+    "cgfx-build-tools": "^0.2",
+    "gulp": "^3.9.0"
+  }
+}
